@@ -3,5 +3,5 @@
 
 Clone the repository on your local computer and then write : 
 
-# node src/app.js 
-# localhost:5500
+node src/app.js 
+localhost:5500
